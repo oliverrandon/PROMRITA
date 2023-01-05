@@ -1,6 +1,3 @@
-//https://www.youtube.com/watch?v=R1S_NhKkvGA
-//YouTube video above
- 
  //PROMRITA: A Space Themed Text ADVENTURE Game
 const textElement = document.getElementById('text')
 const optionButtonsElement = document.getElementById('option-buttons')
